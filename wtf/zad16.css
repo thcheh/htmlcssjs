@@ -1,0 +1,14 @@
+	.container {
+		margin-top: 35px;
+		margin-left: 15px;
+		background-color: #668cff;
+		border: 2px solid black;
+		border-radius: 1px;
+		width: 350px;
+		height: auto;
+		padding-top: 25px;
+		padding-left: 20px;
+		padding-right: 15px;
+		padding-bottom: 15px;
+		line-height: 1.5em;
+	}
